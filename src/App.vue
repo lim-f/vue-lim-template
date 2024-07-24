@@ -17,7 +17,7 @@ import Counter from './components/Counter.vue'
   <h1>
     <a href='https://github.com/lim-f/vue-lim'>Vue Lim</a>
   </h1>
-  <h2>Mark Vue easier to Use</h2>
+  <h2>Make Vue easier to Use</h2>
 
   <div class="card">
     <Counter />
